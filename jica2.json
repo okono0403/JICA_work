@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#0076b4",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "JICA HQs"
+        "name": "HQs"
       },
       "geometry": {
         "type": "Point",
@@ -23,13 +23,109 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "JICA TIC"
+        "name": "TIC"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           139.6747899055481,
           35.6730905690796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ichigaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73131746053693,
+          35.69453036753522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Takebashi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76052939891815,
+          35.690432828884276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sapporo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.43239319324493,
+          43.03588579824883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Obihiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1504338979721,
+          42.901098991811544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tohoku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.87203681468964,
+          38.26412193565817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nihonmatsu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3413188457489,
+          37.61302458746705
         ]
       }
     }
