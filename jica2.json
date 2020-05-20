@@ -23,7 +23,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "TIC"
+        "name": "Tokyo"
       },
       "geometry": {
         "type": "Point",
@@ -126,6 +126,166 @@
         "coordinates": [
           140.3413188457489,
           37.61302458746705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tsukuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.12338399887082,
+          36.02638609538446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yokohama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64045226573944,
+          35.45457004721733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Komagane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.90484309196472,
+          35.71326831416788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hokuriku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.65181159973142,
+          36.57556824221025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chubu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.88373148441315,
+          35.16312595140516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kansai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.21596610546112,
+          34.698776659615895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chugoku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.73432195186615,
+          34.4012974420477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shikoku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.04836297035217,
+          34.3430584746179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kyushu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.79208076000214,
+          33.86353817877295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Okinawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7314281463623,
+          26.238016721397777
         ]
       }
     }
