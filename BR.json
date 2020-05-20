@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "proj_name": "GUANABARA BAY BASIN SEWERAGE SYSTEM CONSTRUCTION PROJECT",
+        "url": "https://www.jica.go.jp/oda/project/BZ-P9/index.html",
+        "detail": "ETE Alegria",
+        "ID": "BZ-P9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.22871208190918,
+          -22.869927740524673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "detail": "ETE Penha",
+        "proj_name": "GUANABARA BAY BASIN SEWERAGE SYSTEM CONSTRUCTION PROJECT",
+        "url": "https://www.jica.go.jp/oda/project/BZ-P9/index.html",
+        "ID": "BZ-P9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.26793670654297,
+          -22.832792966599538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "detail": "ETE Pavuna",
+        "proj_name": "GUANABARA BAY BASIN SEWERAGE SYSTEM CONSTRUCTION PROJECT",
+        "url": "https://www.jica.go.jp/oda/project/BZ-P9/index.html",
+        "ID": "BZ-P9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.30864191055298,
+          -22.801978043500487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "detail": "ETE Sarapui",
+        "proj_name": "GUANABARA BAY BASIN SEWERAGE SYSTEM CONSTRUCTION PROJECT",
+        "url": "https://www.jica.go.jp/oda/project/BZ-P9/index.html",
+        "ID": "BZ-P9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.34505558013916,
+          -22.75588110662365
+        ]
+      }
+    }
+  ]
+}
