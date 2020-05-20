@@ -1933,6 +1933,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "proj_name": "BELEM METROPOLITAN TRUNK BUS SYSTEM PROJECT",
+        "url": "https://www.jica.go.jp/oda/project/BZ-P20/index.html",
+        "detail": "No Data",
+        "ID": "BZ-P20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43494415283203,
+          -1.393752905426787
+        ]
+      }
     }
   ]
 }
