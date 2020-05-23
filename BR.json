@@ -1949,6 +1949,22 @@
           -1.393752905426787
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "proj_name": "PARANA STATE ENVIRONMENTAL IMPROVEMENT PROJECT",
+        "url": "https://www.jica.go.jp/oda/project/BZ-P13/index.html",
+        "detail": "ポイント修正",
+        "ID": "BZ-P13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.24346923828124,
+          -25.406065958440827
+        ]
+      }
     }
   ]
 }
