@@ -1,1 +1,24 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "proj_name": "The Project for Emergency Repair and Overhaul Works for the Jebba Hydro Power Station",
+        "url": "https://www.jica.go.jp/oda/project/1061290/index.html",
+        "detail": "Jebba Hydro Power Station",
+        "id": 1061290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.788494110107422,
+          9.135910352216206
+        ]
+      }
+    }
+  ]
+}
