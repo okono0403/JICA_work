@@ -19,6 +19,38 @@
           9.135910352216206
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "proj_name": "The Project for Emergency Rehabilitation and Reinforcement of Lagos Transmission Substations",
+        "url": "https://www.jica.go.jp/oda/project/1760760/index.html",
+        "detail": "Akangba Substation",
+        "id": 1760760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.347257375717163,
+          6.494780346595004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://www.jica.go.jp/oda/project/1760760/index.html",
+        "proj_name": "The Project for Emergency Rehabilitation and Reinforcement of Lagos Transmission Substations",
+        "detail": "Apapa Road Substation",
+        "id": 1760760
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.364337682723999,
+          6.454857140779493
+        ]
+      }
     }
   ]
 }
